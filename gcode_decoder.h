@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QObject>
 #include <QWidget>
+#include <cstring>
 #include "define_parameter.h"
 #include <QFile>
 #include "packet_handler.h"
