@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QtCore>
+#include <cstring>
 #include "define_parameter.h"
 #define RECEIVE_END "})"
 class packet_handler: public QObject
