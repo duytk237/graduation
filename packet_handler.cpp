@@ -1,4 +1,5 @@
 #include "packet_handler.h"
+#include <cstring>
 
 packet_handler::packet_handler()
 {
