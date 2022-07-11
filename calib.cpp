@@ -1,5 +1,4 @@
 #include "calib.h"
-add sth
 
 Calib::Calib(QObject *parent)
     :QThread { parent }
